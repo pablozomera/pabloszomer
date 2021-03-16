@@ -3,9 +3,9 @@
 }
 body{
     background: linear-gradient( rgba(43,207,188,1), rgba(74,121,201,0.55), rgba(166,64,202,0.35));
-    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
     margin: 0;
-    height: 100vh;
 }
 .container{
     max-width: 1200px;
