@@ -50,6 +50,7 @@ p{
     margin-bottom: 32px;
     cursor: pointer;
     transition: 1.5s;
+    border-radius: 10px;
     
 }
 .rectangulo:hover{
